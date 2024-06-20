@@ -1,2 +1,2 @@
-![image](https://github.com/GURSV/Table-Generator-OpenCV-Pytesseract/assets/110217871/5016ef74-3108-491d-9b6a-33fb7596ff71)
-![image](https://github.com/GURSV/Table-Generator-OpenCV-Pytesseract/assets/110217871/dd66799a-eb29-49f4-aa8a-c45316377a88) 
+![image](https://github.com/GURSV/Table-Generator-OpenCV-Pytesseract/assets/110217871/7fd18a41-dad3-4606-a482-1e373fdb3e96)
+![image](https://github.com/GURSV/Table-Generator-OpenCV-Pytesseract/assets/110217871/24603db2-052e-4730-95be-43a2b2e0d31d)
